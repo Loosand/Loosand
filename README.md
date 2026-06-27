@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Next.js、Laravel
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about web development
-- 📫 How to reach me: loosand@163.com
+- 📫 How to reach me: loosandzzz@gmail.com
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
